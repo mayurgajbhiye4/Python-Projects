@@ -7,3 +7,10 @@ Beginner Python Projects
 3. Snake Game
 4. Tic Tac Toe
 5. Coundown timer
+
+## Password Generator 
+
+# Generating Strong Password using Python
+
+
+
