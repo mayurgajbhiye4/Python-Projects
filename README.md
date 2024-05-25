@@ -9,7 +9,6 @@ Beginner Python Projects
 5. Coundown timer
 
 ## Password Generator 
-have fun
 
 # Generating Strong Password using Python
 
