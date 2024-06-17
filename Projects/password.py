@@ -12,7 +12,7 @@ for _ in range(26):
 
 def generatePass():
     password = []
-    for _ in range(12):
+    for _ in range(10):
         password.append(str(random.choice(chars)))
     print(''.join(password)) 
 
